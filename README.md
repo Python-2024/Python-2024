@@ -3,7 +3,7 @@
 ## About Me
 - **Name**: Himesh Gupta
 - **Class**: 10th
-- **School**: Kendriya Vidyalaya, Jharkhand
+- **School**: Kendriya Vidyalaya, Jhagrakhand
 - **Level**: Beginner Coder
 - 😄 Pronouns: He/Him
 
