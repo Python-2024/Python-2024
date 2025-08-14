@@ -13,7 +13,6 @@ Hello! I'm Himesh Gupta, a passionate beginner coder. This repository contains m
 ## Projects
 1. **Calculator App**: A simple calculator built using Python.
 2. **Guess the Number Game**: A fun game where you guess a random number.
-3. **Personal Portfolio Website**: My personal website showcasing my skills and projects.
 
 ## Contact
 Feel free to reach out to me via email: himeshprog11@gmail.com
